@@ -1,9 +1,3 @@
-# Text-Summarization
-
-Here’s a simple and clean `README.md` file for your text summarization project, formatted for GitHub:
-
----
-
 # **Text Summarization App Using T5 and Streamlit**
 
 This project is a web-based application for summarizing text using the pre-trained **T5 Transformer model** from Hugging Face. The app is built with **Streamlit**, providing an interactive user interface for easy text input, adjustable parameters, and summary generation.
