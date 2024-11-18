@@ -16,8 +16,7 @@ This project is a web-based application for summarizing text using the pre-train
 
 ## **Demo**
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Demo+Image+Placeholder)  
-*Replace this placeholder with a screenshot of your app.*
+![Project Screenshot](https://github.com/user-attachments/assets/7e16f7a3-428c-4e36-9685-1b438f13a865)
 
 ---
 
@@ -25,7 +24,7 @@ This project is a web-based application for summarizing text using the pre-train
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/text-summarization-app.git
+git clone https://github.com/ayushmundhe0311/Text-Summarization.git
 cd text-summarization-app
 ```
 
